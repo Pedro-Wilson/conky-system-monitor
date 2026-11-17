@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime PID and temporary files
+.wallpaper_monitor.pid
+*.tmp
+*.bak
+
+# OS generated
+.DS_Store
+Thumbs.db
+push_to_github.py
